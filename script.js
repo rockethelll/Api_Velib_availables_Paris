@@ -42,5 +42,5 @@ L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
 
 
 velibData()
-setInterval(velibData, 10000)
+setInterval(velibData, 60000)
 
