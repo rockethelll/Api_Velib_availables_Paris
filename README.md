@@ -1,6 +1,6 @@
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/rockethelll/Api_Velib_availables_Paris)
 
-# Velib availble bikes in Paris
+# Velib avaible bikes in Paris
 
 ## <ins>Présentation :</ins>
 
